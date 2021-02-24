@@ -395,7 +395,6 @@
 	heal_brute = 3
 	animal_heal = 5
 	stack_full = 1
-	stack_empty = 1
 
 /obj/item/stack/medical/patches/attack(mob/living/carbon/M as mob, mob/user as mob)
 	if(..())
