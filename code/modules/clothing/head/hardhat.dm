@@ -11,6 +11,8 @@
 	siemens_coefficient = 0.5
 	heat_protection = HEAD
 	max_heat_protection_temperature = FIRE_HELMET_MAX_HEAT_PROTECTION_TEMPERATURE
+	force = 3
+	throwforce = 3
 
 /obj/item/clothing/head/hardhat/orange
 	icon_state = "hardhat0_orange"

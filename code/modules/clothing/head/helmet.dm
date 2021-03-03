@@ -6,6 +6,8 @@
 		slot_l_hand_str = "helmet",
 		slot_r_hand_str = "helmet",
 		)
+	force = 3
+	throwforce = 3
 	valid_accessory_slots = list(ACCESSORY_SLOT_HELM_C)
 	restricted_accessory_slots = list(ACCESSORY_SLOT_HELM_C)
 	item_flags = ITEM_FLAG_THICKMATERIAL
