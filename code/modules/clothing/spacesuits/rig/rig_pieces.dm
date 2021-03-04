@@ -13,7 +13,6 @@
 	species_restricted = null
 	has_visor = 0
 	force = 5
-	throwfroce = 5
 
 /obj/item/clothing/gloves/rig
 	name = "gauntlets"
@@ -119,7 +118,6 @@
 	cold_protection =    HEAD|FACE|EYES
 	item_flags =         ITEM_FLAG_THICKMATERIAL|ITEM_FLAG_AIRTIGHT
 	force = 1
-	throwfroce = 1
 
 /obj/item/clothing/suit/lightrig
 	name = "suit"

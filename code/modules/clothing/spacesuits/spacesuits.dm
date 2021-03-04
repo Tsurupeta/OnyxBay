@@ -25,7 +25,6 @@
 	flash_protection = FLASH_PROTECTION_MAJOR
 	has_visor = 0
 	force = 2
-	throwfroce = 2
 
 	var/obj/machinery/camera/camera
 
