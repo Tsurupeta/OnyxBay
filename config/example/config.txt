@@ -20,7 +20,7 @@
 # SERVER_PORT port
 
 ## set a hosted by name for unix platforms
-HOSTEDBY yournamehere
+HOSTEDBY Reisen
 
 ## Server players limit. If player try to connect while server is full he will
 ## be redirected to the panic server. Otherwise, it's just close the connection.
@@ -38,7 +38,7 @@ TICKLAG 0.625
 FPS 16
 
 ## Uncomment to override a lobby screen or comment to use random one (see code/controllers/configuration.dm var/lobby_images list)
-# OVERRIDE_SPLASH icons/splashes/onyx_new.png
+ OVERRIDE_SPLASH icons/splashes/onyx_new.png
 
 ## Uncomment to have the changelog file automatically open when a user connects and hasn't seen the latest changelog
 # AGGRESSIVE_CHANGELOG
@@ -107,19 +107,19 @@ LOG_ACCESS
 LOG_GAME
 
 ## log debug output
-# LOG_DEBUG
+LOG_DEBUG
 
 ## log debug verbose output
-# LOG_DEBUG_VERBOSE
+LOG_DEBUG_VERBOSE
 
 ## log all Topic() calls (for use by coders in tracking down Topic issues)
-# LOG_HREFS
+LOG_HREFS
 
 ## log world.log and runtime errors to a file
-# LOG_RUNTIME
+LOG_RUNTIME
 
 ## log world.log messages
-# LOG_WORLD_OUTPUT
+LOG_WORLD_OUTPUT
 
 # # # # # # # # # # # # # # # # # # # # # #
 #        MULTIACCOUNT COUNTERACTION       #
